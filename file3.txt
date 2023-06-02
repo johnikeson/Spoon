@@ -1,1 +1,2 @@
 Adding text to file3
+Adding new line to file3.txt
